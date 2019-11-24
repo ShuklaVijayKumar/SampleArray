@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArray", "SampleArray.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArray.Util", "SampleArray.Util\SampleArray.Util.csproj", "{B4946132-3447-4574-B54F-8B1CCDB5DEB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArray.Test", "SampleArrayTest\SampleArray.Test.csproj", "{6965ED3E-E56E-4082-AA6C-3669B9930FA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleArray.Test", "SampleArray.Test\SampleArray.Test.csproj", "{6965ED3E-E56E-4082-AA6C-3669B9930FA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
